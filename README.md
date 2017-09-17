@@ -39,6 +39,6 @@ AntiAura Edition:
 
 ![Support](https://directleaks.com/attachments/support-png.41209/)
 
-If you have found a language mistake, bypass, bug or need help then you can ask/report it [HERE]().
+If you have found a language mistake, bypass, bug or need help then you can ask/report it [HERE](https://github.com/DirectLeaks/Flex-AntiCheat/issues).
 
 I do not respond to conversations or on Discord/Skype/SpigotMC for that.
